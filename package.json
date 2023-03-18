@@ -6,7 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["Firebase", "Test", "Demo"],
+  "keywords": [
+    "Firebase",
+    "Test",
+    "Demo"
+  ],
   "author": "Grant Licata",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^9.18.0"
+  }
 }
